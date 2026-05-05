@@ -59,21 +59,10 @@ The extension follows a **TypeScript Orchestrator** pattern, ensuring it remains
 - A `pi` coding agent environment compatible with `pi-mono` extensions.
 
 ### Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/pi-ext-ffi-companion.git
-   cd pi-ext-ffi-companion
-   ```
 
-2. **Install dependencies**:
-   ```bash
-   bun install
-   ```
-
-3. **Run in development mode**:
-   ```bash
-   bun run dev
-   ```
+```bash
+pi install git:github.com/naranyala/companion-for-system-ffi
+```
 
 ### Usage
 Once loaded, the extension remains silent until it detects FFI patterns in your project. You can also manually trigger tools via the agent:
