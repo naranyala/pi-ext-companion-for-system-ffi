@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "columns": [
+    "Backlog",
+    "To Do",
+    "In Progress",
+    "Done",
+    "Future/Potential"
+  ],
+  "cards": [],
+  "lastSyncedAt": "2026-05-05T23:33:46.943Z"
+}
