@@ -61,7 +61,7 @@ The extension follows a **TypeScript Orchestrator** pattern, ensuring it remains
 ### Installation
 
 ```bash
-pi install git:github.com/naranyala/companion-for-system-ffi
+pi install git:github.com/naranyala/pi-ext-companion-for-system-ffi
 ```
 
 ### Usage
